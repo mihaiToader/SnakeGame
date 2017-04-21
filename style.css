@@ -1,0 +1,25 @@
+h3{
+    text-align: center;
+}
+
+#score{
+    text-align: center;
+}
+
+#scene{
+    background-color: mediumblue;
+    width: 500px;
+    height: 500px;
+    margin: 0 auto;
+    position: relative;
+}
+
+#details{
+    position: absolute;
+    top:20px;
+    left:5px;
+}
+
+body{
+    background-color: green;
+}
